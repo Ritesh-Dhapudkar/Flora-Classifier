@@ -83,11 +83,11 @@ Predicted Flower: Rose
 ## API
 ### Step 1: Upload the Image
 In this step, you will upload the image of the flower you want to classify. The system allows you to select and upload an image, which is then processed by the model for prediction. Below is an example of the upload screen, where you can browse your local files and select an image:
-![Alt text](images/Screenshot 1.png)
+![Alt text](images/Screenshot_1.png)
 
 ### Step 2: View the Result
 After the image is uploaded, the model will predict the flower type based on the image. The result will be displayed with the name of the flower. Below is an example of the result screen showing the model’s prediction:
-![Alt text](images/Screenshot 2.png)
+![Alt text](images/Screenshot_2.png)
 
 In this case, the model successfully predicted that the uploaded image is a **Daisy**.
 
